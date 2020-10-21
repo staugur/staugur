@@ -29,3 +29,7 @@ I'm staugur, SA.
 ## Stats
 
 ![staugur's github stats](https://github-readme-stats.vercel.app/api?username=staugur&show_icons=true)
+
+## Wakatime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
