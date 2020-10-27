@@ -8,7 +8,7 @@ I'm staugur, SA.
 
 - 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-Blog-629ccd?style=for-the-badge&logo=python&logoColor=ffffff)](https://blog.saintic.com)
 
-- 📫 How to reach me [![Email Badge](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:staugur@saintic.com)
+- 📫 How to reach me [![Email Badge](https://img.shields.io/badge/-email-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:me@tcw.im)
 
 ## Operating System & Tools
 
