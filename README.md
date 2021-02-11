@@ -29,13 +29,13 @@ I'm staugur, SA.
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 79 Contributions in the Year 2021
+> 🏆 83 Contributions in the Year 2021
  > 
-> 📦 197.8 kB Used in Github's Storage 
+> 📦 200.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
