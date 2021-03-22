@@ -2,9 +2,9 @@
 
 I'm staugur, SA.
 
-- 🌱 I’m currently learning [Golang](https:/golang.org)
+- 🌱 I’m currently learning [Golang](https:/golang.org) & [k8s](https://kubernetes.io)
 
-- ⚡ Sys / Python / JavaScript
+- ⚡ Sys / Python / JavaScript / Golang
 
 - ✍️ I regulary write articles on [Blog](https://blog.saintic.com)
 
