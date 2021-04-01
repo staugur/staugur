@@ -13,7 +13,7 @@ I'm staugur, SA.
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 168 Contributions in the Year 2021
+> 🏆 181 Contributions in the Year 2021
  > 
 > 📦 256.7 kB Used in Github's Storage 
  > 
