@@ -19,9 +19,9 @@ I'm staugur, SA.
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 31 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 3 Private Repositories  
  > 
 
 <!--END_SECTION:waka-->
