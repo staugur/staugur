@@ -9,19 +9,3 @@ I'm staugur, SA.
 - ✍️ I regulary write articles on [Blog](https://blog.saintic.com)
 
 - 📫 How to reach me with [Email](mailto:me@tcw.im)
-
-<!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 341 Contributions in the Year 2021
- > 
-> 📦 298.5 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-
-<!--END_SECTION:waka-->
